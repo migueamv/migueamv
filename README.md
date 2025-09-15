@@ -1,5 +1,10 @@
-# Hola, mi nombre es Miguel Angel
+# ![ICon](https://github.com/migueamv/migueamv/blob/main/3.png?raw=true) Hola, mi nombre es Miguel Angel
 
+![Baner](https://github.com/migueamv/migueamv/blob/main/Baner.png?raw=true)
+
+Soy un estudiante de ingeniería en mecatrónica
+A través dela carrera he adquirido conocimientos sobre programación estructurada y orientada a objetos, además estoy aprendiendo el uso de Phyton y lenguaje ensamblador. Poseo conocimientos interdisciplinarios complementales como lo son el modelado 3D en SolidWorks y VISI, así mismo tengo conocimiento en los procesos de manufactura especialmente en el maquinado de piezas mediantes CNC en fresadora y cortadores verticales, puedo desempeñar proyectos haciendo usos del torno y cortadoras de plasma. 
+Desde el comienzo de la carrera he trabajado en conjunto con otros alumnos de distintas carreras como lo son ingeniería automotriz, ingeniería en diseño y licenciatura en administración de empresas.
 <!--
 **migueamv/migueamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
